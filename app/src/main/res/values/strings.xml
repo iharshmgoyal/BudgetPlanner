@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Budget Planner</string>
+    <string name="view_all_transactions">View all transactions</string>
+    <string name="add_new_transaction">Add New Transaction</string>
+    <string name="create_and_add_new">Create and Add New</string>
+    <string name="create_event">Create Event</string>
+    <string name="amount">Amount</string>
+    <string name="event_name">Event Name</string>
+    <string name="description">Description</string>
+    <string name="view_all_events">View All Events</string>
+    <string name="balance">Balance</string>
+    <string name="account">Account</string>
+    <string name="occurred_at">Occurred At</string>
+    <string name="get_analysis">Get Analysis</string>
+
+    <string-array name="event_reason_select">
+        <item>Select Reason of Event</item>
+        <item>Salary Credited</item>
+        <item>Amount Credit</item>
+        <item>Travel</item>
+        <item>Purchase</item>
+        <item>Home Expense</item>
+        <item>Given</item>
+        <item>Food</item>
+        <item>EMI</item>
+        <item>Cash Withdrawal</item>
+        <item>Share Market</item>
+        <item>Credit Card Payment</item>
+        <item>Savings</item>
+        <item>All other</item>
+    </string-array>
+
+
+    <string-array name="event_type_select">
+        <item>Select Type of Event</item>
+        <item>Add</item>
+        <item>Subtract</item>
+    </string-array>
+
+    <string-array name="account_select">
+        <item>Select Account</item>
+        <item>ICICI Bank</item>
+        <item>Kotak Mahindra Bank</item>
+        <item>SBI Bank</item>
+        <item>ICICI - Credit Card</item>
+        <item>Kotak Mahindra Credit Card</item>
+        <item>HDFC Credit Card</item>
+    </string-array>
+
+</resources>
